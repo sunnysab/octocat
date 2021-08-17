@@ -1,2 +1,5 @@
-# octocat
-Github 主页描述
+**@sunnysab**  软件工程/Rust/Python/C++
+
+对计算机体系结构感兴趣，也折腾过小程序和基于 Rust 的 Web 后端。
+
+对计算机科学中各种各样好玩儿的东西保持好奇。
